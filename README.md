@@ -10,7 +10,7 @@ Install-Package EntityFramework
 
 ```
   <connectionStrings>
-    <add name="EFConnectionString" connectionString="Data Source=DESKTOP-BQA4KG1\SQLEXPRESS;Language=Brazilian;Initial Catalog=Universidade;Integrated Security=True" providerName="System.Data.SqlClient" />
+    <add name="EFConnectionString" connectionString="NOMEBANCODEDADOS;Language=Brazilian;Initial Catalog=Universidade;Integrated Security=True" providerName="System.Data.SqlClient" />
   </connectionStrings>
 ```
 
